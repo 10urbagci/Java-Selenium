@@ -6,4 +6,6 @@
 <p>You can find the libraries used in the project below.</p>
 <ul>
  <li><a href="https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java">Selenium Java 4.6.0</a></li>
+ <li><a href ="https://mvnrepository.com/artifact/junit/junit">JUnit 4.13.2</a></li>
+ <li><a href ="https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager">WebDriverManager 5.3.1</a></li>
 </ul>
