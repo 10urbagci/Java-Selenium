@@ -9,3 +9,5 @@
  <li><a href ="https://mvnrepository.com/artifact/junit/junit">JUnit 4.13.2</a></li>
  <li><a href ="https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager">WebDriverManager 5.3.1</a></li>
 </ul>
+<p>Action Class is used while logging in.</p>
+<p>A temporary e-mail address was used in the project. <a href ="https://temp-mail.org/en/">Temp Mail</a><p>
